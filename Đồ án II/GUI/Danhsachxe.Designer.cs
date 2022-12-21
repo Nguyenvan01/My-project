@@ -374,6 +374,7 @@ namespace Đồ_án_II
             this.txtMaxe.Name = "txtMaxe";
             this.txtMaxe.Size = new System.Drawing.Size(165, 23);
             this.txtMaxe.TabIndex = 0;
+            this.txtMaxe.TextChanged += new System.EventHandler(this.txtMaxe_TextChanged);
             // 
             // label13
             // 
