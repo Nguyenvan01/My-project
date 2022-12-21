@@ -393,5 +393,10 @@ namespace Đồ_án_II
                 e.Handled = true;
             }
         }
+
+        private void txtMaxe_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
